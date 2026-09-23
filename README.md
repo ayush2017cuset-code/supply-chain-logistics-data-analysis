@@ -1,56 +1,20 @@
 # Supply Chain & Logistics Data Analysis
 
-## Project Overview
+An end-to-end data analysis project using Python and Pandas to analyze supply chain and logistics performance.
 
-This project analyzes supply chain and logistics data to identify patterns in sales, profitability, delivery performance, customer segments, and product categories.
+## What I Analyzed
 
-The analysis was performed using Python and Pandas, with a focus on data cleaning, exploratory data analysis, business metrics, and actionable insights.
+* Sales and profit performance
+* Delivery status and late-delivery rate
+* Customer and product trends
+* Key business performance metrics
+* Patterns and insights from logistics data
 
-## Objectives
+## Tools Used
 
-* Analyze overall sales and profit performance
-* Identify patterns in delivery performance
-* Understand customer and product-level trends
-* Examine factors affecting profitability
-* Generate business insights from logistics data
-
-## Tools & Technologies
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-* GitHub
-
-## Key Analysis Areas
-
-* Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
-* Sales analysis
-* Profit analysis
-* Delivery-status analysis
-* Customer and product analysis
-* Business insights and summary metrics
-
-## Project Structure
-
-```text
-supply-chain-logistics-data-analysis/
-│
-├── logistics_analysis.ipynb
-└── README.md
-```
-
-## Dataset
-
-The original dataset is approximately 95 MB, so it has not been uploaded directly to this repository because of GitHub's file-size limitations.
-
-The notebook contains the complete analysis workflow and can be used with the original dataset after placing the CSV file in the appropriate directory.
+**Python · Pandas · NumPy · Matplotlib · Jupyter Notebook**
 
 ## Key Metrics
-
-The analysis includes metrics such as:
 
 * Total Sales
 * Total Profit
@@ -58,7 +22,17 @@ The analysis includes metrics such as:
 * Average Profit per Record
 * Late Delivery Rate
 
-## Conclusion
+## Project Files
 
-This project demonstrates the use of Python and Pandas to transform raw supply chain data into meaningful business insights. It covers the complete analytical workflow from data preparation and exploration to business-oriented findings.
+* `logistics_analysis.ipynb` — Complete analysis, visualizations, and findings
+* `README.md` — Project overview
 
+## Dataset
+
+The original dataset is approximately 95 MB and is not included in this repository due to GitHub's file-size limitations.
+
+The notebook contains the complete analysis workflow and can be run using the original dataset.
+
+## Outcome
+
+The project demonstrates practical skills in **data cleaning, exploratory data analysis, visualization, and extracting business insights from real-world logistics data.**
